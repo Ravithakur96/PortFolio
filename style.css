@@ -252,4 +252,9 @@ body, html {
     border-color: #00c4e0;
     box-shadow: 0 5px 25px rgba(0, 224, 255, 0.7);
   }
-  
+
+  .Apps{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
