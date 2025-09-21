@@ -1,0 +1,39 @@
+{
+    "folders": [
+        {
+            "name": "C Tutorial",
+            "path": "../C Tutorial"
+        },
+        {
+            "name": "c++ tutorial",
+            "path": "../c++ tutorial"
+        },
+        {
+            "name": "classroom",
+            "path": "../classroom"
+        },
+        {
+            "name": "Express javaScript",
+            "path": "../Express javaScript"
+        },
+        {
+            "name": "HTML",
+            "path": "../HTML"
+        },
+        {
+            "name": "Java Tutorial",
+            "path": "../Java Tutorial"
+        },
+        {
+            "name": "node javaScript",
+            "path": "../node javaScript"
+        },
+        {
+            "name": "projects",
+            "path": "../projects"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "projects"
+    }
+}
