@@ -1,0 +1,11 @@
+# Windows system files
+AppData/
+Desktop.ini
+Thumbs.db
+*.exe
+*.log
+
+# IDE / editor files
+.vscode/
+.idea/
+*.iml
