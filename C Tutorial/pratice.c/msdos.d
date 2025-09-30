@@ -1,1 +1,0 @@
-PS C:\Users\KARAMVEER BHATI\C Tutorial\pratice.c> 
